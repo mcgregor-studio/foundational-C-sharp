@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = create_methods_in_console_apps
-build_property.ProjectDir = C:\Users\cmcgregor\Documents\Coding\practice\foundational-C#\create-methods-in-console-apps-module\create-methods-in-console-apps\
+build_property.ProjectDir = C:\Users\cmcgregor\Documents\Coding\practice\foundational-C-sharp\create-methods-in-console-apps-module\create-methods-in-console-apps\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

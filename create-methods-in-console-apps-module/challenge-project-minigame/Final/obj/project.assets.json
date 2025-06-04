@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\challenge-project-minigame\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\challenge-project-minigame\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\challenge-project-minigame\\Final\\Final.csproj",
+      "projectPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\challenge-project-minigame\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\cmcgregor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\challenge-project-minigame\\Final\\obj\\",
+      "outputPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\challenge-project-minigame\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmcgregor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -82,7 +82,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

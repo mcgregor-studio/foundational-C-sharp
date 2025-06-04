@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj": {}
+    "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj": {
+    "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj",
+        "projectUniqueName": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj",
         "projectName": "create-methods-in-console-apps",
-        "projectPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj",
+        "projectPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\create-methods-in-console-apps.csproj",
         "packagesPath": "C:\\Users\\cmcgregor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\obj\\",
+        "outputPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\create-methods-in-console-apps-module\\create-methods-in-console-apps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmcgregor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

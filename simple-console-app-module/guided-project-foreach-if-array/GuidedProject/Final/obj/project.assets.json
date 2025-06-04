@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\simple-console-app-module\\guided-project-foreach-if-array\\GuidedProject\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\simple-console-app-module\\guided-project-foreach-if-array\\GuidedProject\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\simple-console-app-module\\guided-project-foreach-if-array\\GuidedProject\\Final\\Final.csproj",
+      "projectPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\simple-console-app-module\\guided-project-foreach-if-array\\GuidedProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\cmcgregor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C#\\simple-console-app-module\\guided-project-foreach-if-array\\GuidedProject\\Final\\obj\\",
+      "outputPath": "C:\\Users\\cmcgregor\\Documents\\Coding\\practice\\foundational-C-sharp\\simple-console-app-module\\guided-project-foreach-if-array\\GuidedProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cmcgregor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
